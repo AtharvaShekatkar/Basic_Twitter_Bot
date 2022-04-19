@@ -1,0 +1,28 @@
+{
+  "name": "basic_twitter_bot",
+  "version": "1.0.0",
+  "description": "Building a basic twitter bot using Twitter API",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtharvaShekatkar/Basic_Twitter_Bot.git"
+  },
+  "keywords": [
+    "Twitter",
+    "Bot",
+    "API"
+  ],
+  "author": "AtharvaShekatkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtharvaShekatkar/Basic_Twitter_Bot/issues"
+  },
+  "homepage": "https://github.com/AtharvaShekatkar/Basic_Twitter_Bot#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "twit": "^2.2.11"
+  }
+}
